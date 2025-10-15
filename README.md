@@ -389,7 +389,8 @@ final jsonData = controller.toJson();
 // Later, load it back
 controller.fromJson(jsonData);
 ```
-
+Example 
+![flutter_digital_sign.gif](gifs/flutter_digital_sign.gif)
 ### Callbacks
 
 ```dart
