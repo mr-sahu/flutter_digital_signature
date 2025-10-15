@@ -1,7 +1,6 @@
 name: flutter_digital_signature
 description: A powerful and flexible signature drawing package for Flutter with smooth curves, export options, and customization features.
 version: 1.0.0
-#homepage: https://github.com/yourusername/flutter_digital_signature
 homepage: https://github.com/mr-sahu/flutter_digital_signature.git
 
 environment:
